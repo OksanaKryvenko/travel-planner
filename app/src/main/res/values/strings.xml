@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TravelPlanner</string>
+    <string name="tv_country">Страна:</string>
+    <string name="tv_city">Город:</string>
+    <string name="tv_hotel">Отель:</string>
+    <string name="tv_date">Дата:</string>
+    <string name="cb_done">Выполнено</string>
+    <string name="tv_list_item_travel_country">Страна</string>
+    <string name="tv_list_item_travel_date">Дата</string>
+    <string name="btn_load">Загрузить</string>
+</resources>
